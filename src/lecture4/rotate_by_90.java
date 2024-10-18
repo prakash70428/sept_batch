@@ -6,7 +6,6 @@ public class rotate_by_90 {
 		// TODO Auto-generated method stub
 		Scanner scn = new Scanner(System.in);
         int n = scn.nextInt(); //no. of rows
-       
         int[][] arr = new int[n][n];
         //user input
         for(int i=0;i < arr.length;i++) {
